@@ -1,0 +1,4 @@
+charset,UTF-8
+type,shell
+name,Pixel flakes
+directory,pixel_flakes_zi
