@@ -14,21 +14,21 @@ surface1
 {
 	point.basepos.y,25
 	
-	element0,overlay,surface19910.png,0,0
+	element0,overlay,surface19999.png,0,0
 	
 	animation0.interval,runonce
-	animation0.pattern0  ,overlay,19910,0,14,-1300
-	animation0.pattern1  ,overlay,10000,0-250,14,-1300
-	animation0.pattern2  ,overlay,10001,50,9 ,-1290
-	animation0.pattern3  ,overlay,10002,50,5 ,-1280
-	animation0.pattern4  ,overlay,10003,50,2 ,-1270
-	animation0.pattern5  ,overlay,10004,50,0 ,-1260
-	animation0.pattern6  ,overlay,10005,50,2 ,-1250
-	animation0.pattern7  ,overlay,10006,50,5 ,-1240
-	animation0.pattern8  ,overlay,10007,50,9 ,-1230
-	animation0.pattern9  ,overlay,10008,50,14,-1220
-	animation0.pattern10 ,overlay,10009,50,18,-1210
-	animation0.pattern11 ,overlay,10000,50,21,-1200
+	animation0.pattern0  ,overlay,10000,0,14,-1300,alpha,000
+	animation0.pattern1  ,overlay,10000,0-250,14,-1300,alpha,000
+	animation0.pattern2  ,overlay,10001,50,9 ,-1290,alpha,025
+	animation0.pattern3  ,overlay,10002,50,5 ,-1280,alpha,050
+	animation0.pattern4  ,overlay,10003,50,2 ,-1270,alpha,076
+	animation0.pattern5  ,overlay,10004,50,0 ,-1260,alpha,101
+	animation0.pattern6  ,overlay,10005,50,2 ,-1250,alpha,127
+	animation0.pattern7  ,overlay,10006,50,5 ,-1240,alpha,152
+	animation0.pattern8  ,overlay,10007,50,9 ,-1230,alpha,178
+	animation0.pattern9  ,overlay,10008,50,14,-1220,alpha,203
+	animation0.pattern10 ,overlay,10009,50,18,-1210,alpha,229
+	animation0.pattern11 ,overlay,10000,50,21,-1200,alpha,255
 	animation0.pattern12 ,overlay,10001,50,23,-1190
 	animation0.pattern13 ,overlay,10002,50,21,-1180
 	animation0.pattern14 ,overlay,10003,50,18,-1170
@@ -148,22 +148,17 @@ surface1
 	animation0.pattern128,overlay,10007,50,9 ,-30  
 	animation0.pattern129,overlay,10008,50,5 ,-20  
 	animation0.pattern130,overlay,10009,50,2 ,-10  
-	animation0.pattern131,overlay,10000,50,0 ,0
-	animation0.pattern132,overlay,10000,50,0 ,0
-	animation0.pattern133,start,99999
-	
-	animation99999.interval,never
-	animation99999.pattern0 ,reduce,19900,100,0,0
-	animation99999.pattern1 ,reduce,19901,100,0,0
-	animation99999.pattern2 ,reduce,19902,100,0,0
-	animation99999.pattern3 ,reduce,19903,100,0,0
-	animation99999.pattern4 ,reduce,19904,100,0,0
-	animation99999.pattern5 ,reduce,19905,100,0,0
-	animation99999.pattern6 ,reduce,19906,100,0,0
-	animation99999.pattern7 ,reduce,19907,100,0,0
-	animation99999.pattern8 ,reduce,19908,100,0,0
-	animation99999.pattern9 ,reduce,19909,100,0,0
-	animation99999.pattern10,reduce,19910,100,0,0
+	animation0.pattern131,overlay,10000,50,0 ,0,alpha,255
+	animation0.pattern132,overlay,10000,100,0,0,alpha,229
+	animation0.pattern133,overlay,10000,100,0,0,alpha,203
+	animation0.pattern134,overlay,10000,100,0,0,alpha,178
+	animation0.pattern135,overlay,10000,100,0,0,alpha,152
+	animation0.pattern136,overlay,10000,100,0,0,alpha,127
+	animation0.pattern137,overlay,10000,100,0,0,alpha,101
+	animation0.pattern138,overlay,10000,100,0,0,alpha,076
+	animation0.pattern139,overlay,10000,100,0,0,alpha,050
+	animation0.pattern140,overlay,10000,100,0,0,alpha,025
+	animation0.pattern141,overlay,-1,100,0,0
 }
 
 //Snow flake variants
