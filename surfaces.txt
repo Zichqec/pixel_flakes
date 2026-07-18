@@ -17,282 +17,458 @@ surface1
 	element0,overlay,surface19999.png,0,0
 	
 	animation0.interval,runonce
-	animation0.pattern0  ,overlay,10000,0,14,-1300,alpha,000
-	animation0.pattern1  ,overlay,10000,0-250,14,-1300,alpha,000
-	animation0.pattern2  ,overlay,10001,50,9 ,-1290,alpha,025
-	animation0.pattern3  ,overlay,10002,50,5 ,-1280,alpha,050
-	animation0.pattern4  ,overlay,10003,50,2 ,-1270,alpha,076
-	animation0.pattern5  ,overlay,10004,50,0 ,-1260,alpha,101
-	animation0.pattern6  ,overlay,10005,50,2 ,-1250,alpha,127
-	animation0.pattern7  ,overlay,10006,50,5 ,-1240,alpha,152
-	animation0.pattern8  ,overlay,10007,50,9 ,-1230,alpha,178
-	animation0.pattern9  ,overlay,10008,50,14,-1220,alpha,203
-	animation0.pattern10 ,overlay,10009,50,18,-1210,alpha,229
-	animation0.pattern11 ,overlay,10000,50,21,-1200,alpha,255
-	animation0.pattern12 ,overlay,10001,50,23,-1190
-	animation0.pattern13 ,overlay,10002,50,21,-1180
-	animation0.pattern14 ,overlay,10003,50,18,-1170
-	animation0.pattern15 ,overlay,10004,50,14,-1160
-	animation0.pattern16 ,overlay,10005,50,9 ,-1150
-	animation0.pattern17 ,overlay,10006,50,5 ,-1140
-	animation0.pattern18 ,overlay,10007,50,2 ,-1130
-	animation0.pattern19 ,overlay,10008,50,0 ,-1120
-	animation0.pattern20 ,overlay,10009,50,2 ,-1110
-	animation0.pattern21 ,overlay,10000,50,5 ,-1100
-	animation0.pattern22 ,overlay,10001,50,9 ,-1090
-	animation0.pattern23 ,overlay,10002,50,14,-1080
-	animation0.pattern24 ,overlay,10003,50,18,-1070
-	animation0.pattern25 ,overlay,10004,50,21,-1060
-	animation0.pattern26 ,overlay,10005,50,23,-1050
-	animation0.pattern27 ,overlay,10006,50,21,-1040
-	animation0.pattern28 ,overlay,10007,50,18,-1030
-	animation0.pattern29 ,overlay,10008,50,14,-1020
-	animation0.pattern30 ,overlay,10009,50,9 ,-1010
-	animation0.pattern31 ,overlay,10000,50,5 ,-1000
-	animation0.pattern32 ,overlay,10001,50,2 ,-990 
-	animation0.pattern33 ,overlay,10002,50,0 ,-980 
-	animation0.pattern34 ,overlay,10003,50,2 ,-970 
-	animation0.pattern35 ,overlay,10004,50,5 ,-960 
-	animation0.pattern36 ,overlay,10005,50,9 ,-950 
-	animation0.pattern37 ,overlay,10006,50,14,-940 
-	animation0.pattern38 ,overlay,10007,50,18,-930 
-	animation0.pattern39 ,overlay,10008,50,21,-920 
-	animation0.pattern40 ,overlay,10009,50,23,-910 
-	animation0.pattern41 ,overlay,10000,50,21,-900 
-	animation0.pattern42 ,overlay,10001,50,18,-890 
-	animation0.pattern43 ,overlay,10002,50,14,-880 
-	animation0.pattern44 ,overlay,10003,50,9 ,-870 
-	animation0.pattern45 ,overlay,10004,50,5 ,-860 
-	animation0.pattern46 ,overlay,10005,50,2 ,-850 
-	animation0.pattern47 ,overlay,10006,50,0 ,-840 
-	animation0.pattern48 ,overlay,10007,50,2 ,-830 
-	animation0.pattern49 ,overlay,10008,50,5 ,-820 
-	animation0.pattern50 ,overlay,10009,50,9 ,-810 
-	animation0.pattern51 ,overlay,10000,50,14,-800 
-	animation0.pattern52 ,overlay,10001,50,18,-790 
-	animation0.pattern53 ,overlay,10002,50,21,-780 
-	animation0.pattern54 ,overlay,10003,50,23,-770 
-	animation0.pattern55 ,overlay,10004,50,21,-760 
-	animation0.pattern56 ,overlay,10005,50,18,-750 
-	animation0.pattern57 ,overlay,10006,50,14,-740 
-	animation0.pattern58 ,overlay,10007,50,9 ,-730 
-	animation0.pattern59 ,overlay,10008,50,5 ,-720 
-	animation0.pattern60 ,overlay,10009,50,2 ,-710 
-	animation0.pattern61 ,overlay,10000,50,0 ,-700 
-	animation0.pattern62 ,overlay,10001,50,2 ,-690 
-	animation0.pattern63 ,overlay,10002,50,5 ,-680 
-	animation0.pattern64 ,overlay,10003,50,9 ,-670 
-	animation0.pattern65 ,overlay,10004,50,14,-660 
-	animation0.pattern66 ,overlay,10005,50,18,-650 
-	animation0.pattern67 ,overlay,10006,50,21,-640 
-	animation0.pattern68 ,overlay,10007,50,23,-630 
-	animation0.pattern69 ,overlay,10008,50,21,-620 
-	animation0.pattern70 ,overlay,10009,50,18,-610 
-	animation0.pattern71 ,overlay,10000,50,14,-600 
-	animation0.pattern72 ,overlay,10001,50,9 ,-590 
-	animation0.pattern73 ,overlay,10002,50,5 ,-580 
-	animation0.pattern74 ,overlay,10003,50,2 ,-570 
-	animation0.pattern75 ,overlay,10004,50,0 ,-560 
-	animation0.pattern76 ,overlay,10005,50,2 ,-550 
-	animation0.pattern77 ,overlay,10006,50,5 ,-540 
-	animation0.pattern78 ,overlay,10007,50,9 ,-530 
-	animation0.pattern79 ,overlay,10008,50,14,-520 
-	animation0.pattern80 ,overlay,10009,50,18,-510 
-	animation0.pattern81 ,overlay,10000,50,21,-500 
-	animation0.pattern82 ,overlay,10001,50,23,-490 
-	animation0.pattern83 ,overlay,10002,50,21,-480 
-	animation0.pattern84 ,overlay,10003,50,18,-470 
-	animation0.pattern85 ,overlay,10004,50,14,-460 
-	animation0.pattern86 ,overlay,10005,50,9 ,-450 
-	animation0.pattern87 ,overlay,10006,50,5 ,-440 
-	animation0.pattern88 ,overlay,10007,50,2 ,-430 
-	animation0.pattern89 ,overlay,10008,50,0 ,-420 
-	animation0.pattern90 ,overlay,10009,50,2 ,-410 
-	animation0.pattern91 ,overlay,10000,50,5 ,-400 
-	animation0.pattern92 ,overlay,10001,50,9 ,-390 
-	animation0.pattern93 ,overlay,10002,50,14,-380 
-	animation0.pattern94 ,overlay,10003,50,18,-370 
-	animation0.pattern95 ,overlay,10004,50,21,-360 
-	animation0.pattern96 ,overlay,10005,50,23,-350 
-	animation0.pattern97 ,overlay,10006,50,21,-340 
-	animation0.pattern98 ,overlay,10007,50,18,-330 
-	animation0.pattern99 ,overlay,10008,50,14,-320 
-	animation0.pattern100,overlay,10009,50,9 ,-310 
-	animation0.pattern101,overlay,10000,50,5 ,-300 
-	animation0.pattern102,overlay,10001,50,2 ,-290 
-	animation0.pattern103,overlay,10002,50,0 ,-280 
-	animation0.pattern104,overlay,10003,50,2 ,-270 
-	animation0.pattern105,overlay,10004,50,5 ,-260 
-	animation0.pattern106,overlay,10005,50,9 ,-250 
-	animation0.pattern107,overlay,10006,50,14,-240 
-	animation0.pattern108,overlay,10007,50,18,-230 
-	animation0.pattern109,overlay,10008,50,21,-220 
-	animation0.pattern110,overlay,10009,50,23,-210 
-	animation0.pattern111,overlay,10000,50,21,-200 
-	animation0.pattern112,overlay,10001,50,18,-190 
-	animation0.pattern113,overlay,10002,50,14,-180 
-	animation0.pattern114,overlay,10003,50,9 ,-170 
-	animation0.pattern115,overlay,10004,50,5 ,-160 
-	animation0.pattern116,overlay,10005,50,2 ,-150 
-	animation0.pattern117,overlay,10006,50,0 ,-140 
-	animation0.pattern118,overlay,10007,50,2 ,-130 
-	animation0.pattern119,overlay,10008,50,5 ,-120 
-	animation0.pattern120,overlay,10009,50,9 ,-110 
-	animation0.pattern121,overlay,10000,50,14,-100 
-	animation0.pattern122,overlay,10001,50,18,-90  
-	animation0.pattern123,overlay,10002,50,21,-80  
-	animation0.pattern124,overlay,10003,50,23,-70  
-	animation0.pattern125,overlay,10004,50,21,-60  
-	animation0.pattern126,overlay,10005,50,18,-50  
-	animation0.pattern127,overlay,10006,50,14,-40  
-	animation0.pattern128,overlay,10007,50,9 ,-30  
-	animation0.pattern129,overlay,10008,50,5 ,-20  
-	animation0.pattern130,overlay,10009,50,2 ,-10  
-	animation0.pattern131,overlay,10000,50,0 ,0,alpha,255
-	animation0.pattern132,overlay,10000,100,0,0,alpha,229
-	animation0.pattern133,overlay,10000,100,0,0,alpha,203
-	animation0.pattern134,overlay,10000,100,0,0,alpha,178
-	animation0.pattern135,overlay,10000,100,0,0,alpha,152
-	animation0.pattern136,overlay,10000,100,0,0,alpha,127
-	animation0.pattern137,overlay,10000,100,0,0,alpha,101
-	animation0.pattern138,overlay,10000,100,0,0,alpha,076
-	animation0.pattern139,overlay,10000,100,0,0,alpha,050
-	animation0.pattern140,overlay,10000,100,0,0,alpha,025
-	animation0.pattern141,overlay,-1,100,0,0
+	animation0.pattern0,overlay,-1,0-750,0,0
+	animation0.pattern1,alternativestart,(10,11,12)
+	
+	animation10.interval,never
+	animation10.pattern0  ,overlay,10000,0 ,14,-1300,alpha,000
+	animation10.pattern1  ,overlay,10001,50,9 ,-1290,alpha,025
+	animation10.pattern2  ,overlay,10002,50,5 ,-1280,alpha,050
+	animation10.pattern3  ,overlay,10003,50,2 ,-1270,alpha,076
+	animation10.pattern4  ,overlay,10004,50,0 ,-1260,alpha,101
+	animation10.pattern5  ,overlay,10005,50,2 ,-1250,alpha,127
+	animation10.pattern6  ,overlay,10006,50,5 ,-1240,alpha,152
+	animation10.pattern7  ,overlay,10007,50,9 ,-1230,alpha,178
+	animation10.pattern8  ,overlay,10008,50,14,-1220,alpha,203
+	animation10.pattern9  ,overlay,10009,50,18,-1210,alpha,229
+	animation10.pattern10 ,overlay,10000,50,21,-1200,alpha,255
+	animation10.pattern11 ,overlay,10001,50,23,-1190
+	animation10.pattern12 ,overlay,10002,50,21,-1180
+	animation10.pattern13 ,overlay,10003,50,18,-1170
+	animation10.pattern14 ,overlay,10004,50,14,-1160
+	animation10.pattern15 ,overlay,10005,50,9 ,-1150
+	animation10.pattern16 ,overlay,10006,50,5 ,-1140
+	animation10.pattern17 ,overlay,10007,50,2 ,-1130
+	animation10.pattern18 ,overlay,10008,50,0 ,-1120
+	animation10.pattern19 ,overlay,10009,50,2 ,-1110
+	animation10.pattern20 ,overlay,10000,50,5 ,-1100
+	animation10.pattern21 ,overlay,10001,50,9 ,-1090
+	animation10.pattern22 ,overlay,10002,50,14,-1080
+	animation10.pattern23 ,overlay,10003,50,18,-1070
+	animation10.pattern24 ,overlay,10004,50,21,-1060
+	animation10.pattern25 ,overlay,10005,50,23,-1050
+	animation10.pattern26 ,overlay,10006,50,21,-1040
+	animation10.pattern27 ,overlay,10007,50,18,-1030
+	animation10.pattern28 ,overlay,10008,50,14,-1020
+	animation10.pattern29 ,overlay,10009,50,9 ,-1010
+	animation10.pattern30 ,overlay,10000,50,5 ,-1000
+	animation10.pattern31 ,overlay,10001,50,2 ,-990 
+	animation10.pattern32 ,overlay,10002,50,0 ,-980 
+	animation10.pattern33 ,overlay,10003,50,2 ,-970 
+	animation10.pattern34 ,overlay,10004,50,5 ,-960 
+	animation10.pattern35 ,overlay,10005,50,9 ,-950 
+	animation10.pattern36 ,overlay,10006,50,14,-940 
+	animation10.pattern37 ,overlay,10007,50,18,-930 
+	animation10.pattern38 ,overlay,10008,50,21,-920 
+	animation10.pattern39 ,overlay,10009,50,23,-910 
+	animation10.pattern40 ,overlay,10000,50,21,-900 
+	animation10.pattern41 ,overlay,10001,50,18,-890 
+	animation10.pattern42 ,overlay,10002,50,14,-880 
+	animation10.pattern43 ,overlay,10003,50,9 ,-870 
+	animation10.pattern44 ,overlay,10004,50,5 ,-860 
+	animation10.pattern45 ,overlay,10005,50,2 ,-850 
+	animation10.pattern46 ,overlay,10006,50,0 ,-840 
+	animation10.pattern47 ,overlay,10007,50,2 ,-830 
+	animation10.pattern48 ,overlay,10008,50,5 ,-820 
+	animation10.pattern49 ,overlay,10009,50,9 ,-810 
+	animation10.pattern50 ,overlay,10000,50,14,-800 
+	animation10.pattern51 ,overlay,10001,50,18,-790 
+	animation10.pattern52 ,overlay,10002,50,21,-780 
+	animation10.pattern53 ,overlay,10003,50,23,-770 
+	animation10.pattern54 ,overlay,10004,50,21,-760 
+	animation10.pattern55 ,overlay,10005,50,18,-750 
+	animation10.pattern56 ,overlay,10006,50,14,-740 
+	animation10.pattern57 ,overlay,10007,50,9 ,-730 
+	animation10.pattern58 ,overlay,10008,50,5 ,-720 
+	animation10.pattern59 ,overlay,10009,50,2 ,-710 
+	animation10.pattern60 ,overlay,10000,50,0 ,-700 
+	animation10.pattern61 ,overlay,10001,50,2 ,-690 
+	animation10.pattern62 ,overlay,10002,50,5 ,-680 
+	animation10.pattern63 ,overlay,10003,50,9 ,-670 
+	animation10.pattern64 ,overlay,10004,50,14,-660 
+	animation10.pattern65 ,overlay,10005,50,18,-650 
+	animation10.pattern66 ,overlay,10006,50,21,-640 
+	animation10.pattern67 ,overlay,10007,50,23,-630 
+	animation10.pattern68 ,overlay,10008,50,21,-620 
+	animation10.pattern69 ,overlay,10009,50,18,-610 
+	animation10.pattern70 ,overlay,10000,50,14,-600 
+	animation10.pattern71 ,overlay,10001,50,9 ,-590 
+	animation10.pattern72 ,overlay,10002,50,5 ,-580 
+	animation10.pattern73 ,overlay,10003,50,2 ,-570 
+	animation10.pattern74 ,overlay,10004,50,0 ,-560 
+	animation10.pattern75 ,overlay,10005,50,2 ,-550 
+	animation10.pattern76 ,overlay,10006,50,5 ,-540 
+	animation10.pattern77 ,overlay,10007,50,9 ,-530 
+	animation10.pattern78 ,overlay,10008,50,14,-520 
+	animation10.pattern79 ,overlay,10009,50,18,-510 
+	animation10.pattern80 ,overlay,10000,50,21,-500 
+	animation10.pattern81 ,overlay,10001,50,23,-490 
+	animation10.pattern82 ,overlay,10002,50,21,-480 
+	animation10.pattern83 ,overlay,10003,50,18,-470 
+	animation10.pattern84 ,overlay,10004,50,14,-460 
+	animation10.pattern85 ,overlay,10005,50,9 ,-450 
+	animation10.pattern86 ,overlay,10006,50,5 ,-440 
+	animation10.pattern87 ,overlay,10007,50,2 ,-430 
+	animation10.pattern88 ,overlay,10008,50,0 ,-420 
+	animation10.pattern89 ,overlay,10009,50,2 ,-410 
+	animation10.pattern90 ,overlay,10000,50,5 ,-400 
+	animation10.pattern91 ,overlay,10001,50,9 ,-390 
+	animation10.pattern92 ,overlay,10002,50,14,-380 
+	animation10.pattern93 ,overlay,10003,50,18,-370 
+	animation10.pattern94 ,overlay,10004,50,21,-360 
+	animation10.pattern95 ,overlay,10005,50,23,-350 
+	animation10.pattern96 ,overlay,10006,50,21,-340 
+	animation10.pattern97 ,overlay,10007,50,18,-330 
+	animation10.pattern98 ,overlay,10008,50,14,-320 
+	animation10.pattern99 ,overlay,10009,50,9 ,-310 
+	animation10.pattern100,overlay,10000,50,5 ,-300 
+	animation10.pattern101,overlay,10001,50,2 ,-290 
+	animation10.pattern102,overlay,10002,50,0 ,-280 
+	animation10.pattern103,overlay,10003,50,2 ,-270 
+	animation10.pattern104,overlay,10004,50,5 ,-260 
+	animation10.pattern105,overlay,10005,50,9 ,-250 
+	animation10.pattern106,overlay,10006,50,14,-240 
+	animation10.pattern107,overlay,10007,50,18,-230 
+	animation10.pattern108,overlay,10008,50,21,-220 
+	animation10.pattern109,overlay,10009,50,23,-210 
+	animation10.pattern110,overlay,10000,50,21,-200 
+	animation10.pattern111,overlay,10001,50,18,-190 
+	animation10.pattern112,overlay,10002,50,14,-180 
+	animation10.pattern113,overlay,10003,50,9 ,-170 
+	animation10.pattern114,overlay,10004,50,5 ,-160 
+	animation10.pattern115,overlay,10005,50,2 ,-150 
+	animation10.pattern116,overlay,10006,50,0 ,-140 
+	animation10.pattern117,overlay,10007,50,2 ,-130 
+	animation10.pattern118,overlay,10008,50,5 ,-120 
+	animation10.pattern119,overlay,10009,50,9 ,-110 
+	animation10.pattern120,overlay,10000,50,14,-100 
+	animation10.pattern121,overlay,10001,50,18,-90  
+	animation10.pattern122,overlay,10002,50,21,-80  
+	animation10.pattern123,overlay,10003,50,23,-70  
+	animation10.pattern124,overlay,10004,50,21,-60  
+	animation10.pattern125,overlay,10005,50,18,-50  
+	animation10.pattern126,overlay,10006,50,14,-40  
+	animation10.pattern127,overlay,10007,50,9 ,-30  
+	animation10.pattern128,overlay,10008,50,5 ,-20  
+	animation10.pattern129,overlay,10009,50,2 ,-10  
+	animation10.pattern130,overlay,10000,50,0 ,0,alpha,255
+	animation10.pattern131,overlay,10000,100,0,0,alpha,229
+	animation10.pattern132,overlay,10000,100,0,0,alpha,203
+	animation10.pattern133,overlay,10000,100,0,0,alpha,178
+	animation10.pattern134,overlay,10000,100,0,0,alpha,152
+	animation10.pattern135,overlay,10000,100,0,0,alpha,127
+	animation10.pattern136,overlay,10000,100,0,0,alpha,101
+	animation10.pattern137,overlay,10000,100,0,0,alpha,076
+	animation10.pattern138,overlay,10000,100,0,0,alpha,050
+	animation10.pattern139,overlay,10000,100,0,0,alpha,025
+	animation10.pattern140,overlay,-1,100,0,0
+	
+	animation11.interval,never
+	animation11.pattern0  ,overlay,10100,0 ,14,-1300,alpha,000
+	animation11.pattern1  ,overlay,10101,50,9 ,-1290,alpha,025
+	animation11.pattern2  ,overlay,10102,50,5 ,-1280,alpha,050
+	animation11.pattern3  ,overlay,10103,50,2 ,-1270,alpha,076
+	animation11.pattern4  ,overlay,10104,50,0 ,-1260,alpha,101
+	animation11.pattern5  ,overlay,10105,50,2 ,-1250,alpha,127
+	animation11.pattern6  ,overlay,10106,50,5 ,-1240,alpha,152
+	animation11.pattern7  ,overlay,10107,50,9 ,-1230,alpha,178
+	animation11.pattern8  ,overlay,10108,50,14,-1220,alpha,203
+	animation11.pattern9  ,overlay,10109,50,18,-1210,alpha,229
+	animation11.pattern10 ,overlay,10100,50,21,-1200,alpha,255
+	animation11.pattern11 ,overlay,10101,50,23,-1190
+	animation11.pattern12 ,overlay,10102,50,21,-1180
+	animation11.pattern13 ,overlay,10103,50,18,-1170
+	animation11.pattern14 ,overlay,10104,50,14,-1160
+	animation11.pattern15 ,overlay,10105,50,9 ,-1150
+	animation11.pattern16 ,overlay,10106,50,5 ,-1140
+	animation11.pattern17 ,overlay,10107,50,2 ,-1130
+	animation11.pattern18 ,overlay,10108,50,0 ,-1120
+	animation11.pattern19 ,overlay,10109,50,2 ,-1110
+	animation11.pattern20 ,overlay,10100,50,5 ,-1100
+	animation11.pattern21 ,overlay,10101,50,9 ,-1090
+	animation11.pattern22 ,overlay,10102,50,14,-1080
+	animation11.pattern23 ,overlay,10103,50,18,-1070
+	animation11.pattern24 ,overlay,10104,50,21,-1060
+	animation11.pattern25 ,overlay,10105,50,23,-1050
+	animation11.pattern26 ,overlay,10106,50,21,-1040
+	animation11.pattern27 ,overlay,10107,50,18,-1030
+	animation11.pattern28 ,overlay,10108,50,14,-1020
+	animation11.pattern29 ,overlay,10109,50,9 ,-1010
+	animation11.pattern30 ,overlay,10100,50,5 ,-1000
+	animation11.pattern31 ,overlay,10101,50,2 ,-990 
+	animation11.pattern32 ,overlay,10102,50,0 ,-980 
+	animation11.pattern33 ,overlay,10103,50,2 ,-970 
+	animation11.pattern34 ,overlay,10104,50,5 ,-960 
+	animation11.pattern35 ,overlay,10105,50,9 ,-950 
+	animation11.pattern36 ,overlay,10106,50,14,-940 
+	animation11.pattern37 ,overlay,10107,50,18,-930 
+	animation11.pattern38 ,overlay,10108,50,21,-920 
+	animation11.pattern39 ,overlay,10109,50,23,-910 
+	animation11.pattern40 ,overlay,10100,50,21,-900 
+	animation11.pattern41 ,overlay,10101,50,18,-890 
+	animation11.pattern42 ,overlay,10102,50,14,-880 
+	animation11.pattern43 ,overlay,10103,50,9 ,-870 
+	animation11.pattern44 ,overlay,10104,50,5 ,-860 
+	animation11.pattern45 ,overlay,10105,50,2 ,-850 
+	animation11.pattern46 ,overlay,10106,50,0 ,-840 
+	animation11.pattern47 ,overlay,10107,50,2 ,-830 
+	animation11.pattern48 ,overlay,10108,50,5 ,-820 
+	animation11.pattern49 ,overlay,10109,50,9 ,-810 
+	animation11.pattern50 ,overlay,10100,50,14,-800 
+	animation11.pattern51 ,overlay,10101,50,18,-790 
+	animation11.pattern52 ,overlay,10102,50,21,-780 
+	animation11.pattern53 ,overlay,10103,50,23,-770 
+	animation11.pattern54 ,overlay,10104,50,21,-760 
+	animation11.pattern55 ,overlay,10105,50,18,-750 
+	animation11.pattern56 ,overlay,10106,50,14,-740 
+	animation11.pattern57 ,overlay,10107,50,9 ,-730 
+	animation11.pattern58 ,overlay,10108,50,5 ,-720 
+	animation11.pattern59 ,overlay,10109,50,2 ,-710 
+	animation11.pattern60 ,overlay,10100,50,0 ,-700 
+	animation11.pattern61 ,overlay,10101,50,2 ,-690 
+	animation11.pattern62 ,overlay,10102,50,5 ,-680 
+	animation11.pattern63 ,overlay,10103,50,9 ,-670 
+	animation11.pattern64 ,overlay,10104,50,14,-660 
+	animation11.pattern65 ,overlay,10105,50,18,-650 
+	animation11.pattern66 ,overlay,10106,50,21,-640 
+	animation11.pattern67 ,overlay,10107,50,23,-630 
+	animation11.pattern68 ,overlay,10108,50,21,-620 
+	animation11.pattern69 ,overlay,10109,50,18,-610 
+	animation11.pattern70 ,overlay,10100,50,14,-600 
+	animation11.pattern71 ,overlay,10101,50,9 ,-590 
+	animation11.pattern72 ,overlay,10102,50,5 ,-580 
+	animation11.pattern73 ,overlay,10103,50,2 ,-570 
+	animation11.pattern74 ,overlay,10104,50,0 ,-560 
+	animation11.pattern75 ,overlay,10105,50,2 ,-550 
+	animation11.pattern76 ,overlay,10106,50,5 ,-540 
+	animation11.pattern77 ,overlay,10107,50,9 ,-530 
+	animation11.pattern78 ,overlay,10108,50,14,-520 
+	animation11.pattern79 ,overlay,10109,50,18,-510 
+	animation11.pattern80 ,overlay,10100,50,21,-500 
+	animation11.pattern81 ,overlay,10101,50,23,-490 
+	animation11.pattern82 ,overlay,10102,50,21,-480 
+	animation11.pattern83 ,overlay,10103,50,18,-470 
+	animation11.pattern84 ,overlay,10104,50,14,-460 
+	animation11.pattern85 ,overlay,10105,50,9 ,-450 
+	animation11.pattern86 ,overlay,10106,50,5 ,-440 
+	animation11.pattern87 ,overlay,10107,50,2 ,-430 
+	animation11.pattern88 ,overlay,10108,50,0 ,-420 
+	animation11.pattern89 ,overlay,10109,50,2 ,-410 
+	animation11.pattern90 ,overlay,10100,50,5 ,-400 
+	animation11.pattern91 ,overlay,10101,50,9 ,-390 
+	animation11.pattern92 ,overlay,10102,50,14,-380 
+	animation11.pattern93 ,overlay,10103,50,18,-370 
+	animation11.pattern94 ,overlay,10104,50,21,-360 
+	animation11.pattern95 ,overlay,10105,50,23,-350 
+	animation11.pattern96 ,overlay,10106,50,21,-340 
+	animation11.pattern97 ,overlay,10107,50,18,-330 
+	animation11.pattern98 ,overlay,10108,50,14,-320 
+	animation11.pattern99 ,overlay,10109,50,9 ,-310 
+	animation11.pattern100,overlay,10100,50,5 ,-300 
+	animation11.pattern101,overlay,10101,50,2 ,-290 
+	animation11.pattern102,overlay,10102,50,0 ,-280 
+	animation11.pattern103,overlay,10103,50,2 ,-270 
+	animation11.pattern104,overlay,10104,50,5 ,-260 
+	animation11.pattern105,overlay,10105,50,9 ,-250 
+	animation11.pattern106,overlay,10106,50,14,-240 
+	animation11.pattern107,overlay,10107,50,18,-230 
+	animation11.pattern108,overlay,10108,50,21,-220 
+	animation11.pattern109,overlay,10109,50,23,-210 
+	animation11.pattern110,overlay,10100,50,21,-200 
+	animation11.pattern111,overlay,10101,50,18,-190 
+	animation11.pattern112,overlay,10102,50,14,-180 
+	animation11.pattern113,overlay,10103,50,9 ,-170 
+	animation11.pattern114,overlay,10104,50,5 ,-160 
+	animation11.pattern115,overlay,10105,50,2 ,-150 
+	animation11.pattern116,overlay,10106,50,0 ,-140 
+	animation11.pattern117,overlay,10107,50,2 ,-130 
+	animation11.pattern118,overlay,10108,50,5 ,-120 
+	animation11.pattern119,overlay,10109,50,9 ,-110 
+	animation11.pattern120,overlay,10100,50,14,-100 
+	animation11.pattern121,overlay,10101,50,18,-90  
+	animation11.pattern122,overlay,10102,50,21,-80  
+	animation11.pattern123,overlay,10103,50,23,-70  
+	animation11.pattern124,overlay,10104,50,21,-60  
+	animation11.pattern125,overlay,10105,50,18,-50  
+	animation11.pattern126,overlay,10106,50,14,-40  
+	animation11.pattern127,overlay,10107,50,9 ,-30  
+	animation11.pattern128,overlay,10108,50,5 ,-20  
+	animation11.pattern129,overlay,10109,50,2 ,-10  
+	animation11.pattern130,overlay,10100,50,0 ,0,alpha,255
+	animation11.pattern131,overlay,10100,100,0,0,alpha,229
+	animation11.pattern132,overlay,10100,100,0,0,alpha,203
+	animation11.pattern133,overlay,10100,100,0,0,alpha,178
+	animation11.pattern134,overlay,10100,100,0,0,alpha,152
+	animation11.pattern135,overlay,10100,100,0,0,alpha,127
+	animation11.pattern136,overlay,10100,100,0,0,alpha,101
+	animation11.pattern137,overlay,10100,100,0,0,alpha,076
+	animation11.pattern138,overlay,10100,100,0,0,alpha,050
+	animation11.pattern139,overlay,10100,100,0,0,alpha,025
+	animation11.pattern140,overlay,-1,100,0,0
+	
+	animation12.interval,never
+	animation12.pattern0  ,overlay,10200,0 ,14,-1300,alpha,000
+	animation12.pattern1  ,overlay,10201,50,9 ,-1290,alpha,025
+	animation12.pattern2  ,overlay,10202,50,5 ,-1280,alpha,050
+	animation12.pattern3  ,overlay,10203,50,2 ,-1270,alpha,076
+	animation12.pattern4  ,overlay,10204,50,0 ,-1260,alpha,101
+	animation12.pattern5  ,overlay,10205,50,2 ,-1250,alpha,127
+	animation12.pattern6  ,overlay,10206,50,5 ,-1240,alpha,152
+	animation12.pattern7  ,overlay,10207,50,9 ,-1230,alpha,178
+	animation12.pattern8  ,overlay,10208,50,14,-1220,alpha,203
+	animation12.pattern9  ,overlay,10209,50,18,-1210,alpha,229
+	animation12.pattern10 ,overlay,10200,50,21,-1200,alpha,255
+	animation12.pattern11 ,overlay,10201,50,23,-1190
+	animation12.pattern12 ,overlay,10202,50,21,-1180
+	animation12.pattern13 ,overlay,10203,50,18,-1170
+	animation12.pattern14 ,overlay,10204,50,14,-1160
+	animation12.pattern15 ,overlay,10205,50,9 ,-1150
+	animation12.pattern16 ,overlay,10206,50,5 ,-1140
+	animation12.pattern17 ,overlay,10207,50,2 ,-1130
+	animation12.pattern18 ,overlay,10208,50,0 ,-1120
+	animation12.pattern19 ,overlay,10209,50,2 ,-1110
+	animation12.pattern20 ,overlay,10200,50,5 ,-1100
+	animation12.pattern21 ,overlay,10201,50,9 ,-1090
+	animation12.pattern22 ,overlay,10202,50,14,-1080
+	animation12.pattern23 ,overlay,10203,50,18,-1070
+	animation12.pattern24 ,overlay,10204,50,21,-1060
+	animation12.pattern25 ,overlay,10205,50,23,-1050
+	animation12.pattern26 ,overlay,10206,50,21,-1040
+	animation12.pattern27 ,overlay,10207,50,18,-1030
+	animation12.pattern28 ,overlay,10208,50,14,-1020
+	animation12.pattern29 ,overlay,10209,50,9 ,-1010
+	animation12.pattern30 ,overlay,10200,50,5 ,-1000
+	animation12.pattern31 ,overlay,10201,50,2 ,-990 
+	animation12.pattern32 ,overlay,10202,50,0 ,-980 
+	animation12.pattern33 ,overlay,10203,50,2 ,-970 
+	animation12.pattern34 ,overlay,10204,50,5 ,-960 
+	animation12.pattern35 ,overlay,10205,50,9 ,-950 
+	animation12.pattern36 ,overlay,10206,50,14,-940 
+	animation12.pattern37 ,overlay,10207,50,18,-930 
+	animation12.pattern38 ,overlay,10208,50,21,-920 
+	animation12.pattern39 ,overlay,10209,50,23,-910 
+	animation12.pattern40 ,overlay,10200,50,21,-900 
+	animation12.pattern41 ,overlay,10201,50,18,-890 
+	animation12.pattern42 ,overlay,10202,50,14,-880 
+	animation12.pattern43 ,overlay,10203,50,9 ,-870 
+	animation12.pattern44 ,overlay,10204,50,5 ,-860 
+	animation12.pattern45 ,overlay,10205,50,2 ,-850 
+	animation12.pattern46 ,overlay,10206,50,0 ,-840 
+	animation12.pattern47 ,overlay,10207,50,2 ,-830 
+	animation12.pattern48 ,overlay,10208,50,5 ,-820 
+	animation12.pattern49 ,overlay,10209,50,9 ,-810 
+	animation12.pattern50 ,overlay,10200,50,14,-800 
+	animation12.pattern51 ,overlay,10201,50,18,-790 
+	animation12.pattern52 ,overlay,10202,50,21,-780 
+	animation12.pattern53 ,overlay,10203,50,23,-770 
+	animation12.pattern54 ,overlay,10204,50,21,-760 
+	animation12.pattern55 ,overlay,10205,50,18,-750 
+	animation12.pattern56 ,overlay,10206,50,14,-740 
+	animation12.pattern57 ,overlay,10207,50,9 ,-730 
+	animation12.pattern58 ,overlay,10208,50,5 ,-720 
+	animation12.pattern59 ,overlay,10209,50,2 ,-710 
+	animation12.pattern60 ,overlay,10200,50,0 ,-700 
+	animation12.pattern61 ,overlay,10201,50,2 ,-690 
+	animation12.pattern62 ,overlay,10202,50,5 ,-680 
+	animation12.pattern63 ,overlay,10203,50,9 ,-670 
+	animation12.pattern64 ,overlay,10204,50,14,-660 
+	animation12.pattern65 ,overlay,10205,50,18,-650 
+	animation12.pattern66 ,overlay,10206,50,21,-640 
+	animation12.pattern67 ,overlay,10207,50,23,-630 
+	animation12.pattern68 ,overlay,10208,50,21,-620 
+	animation12.pattern69 ,overlay,10209,50,18,-610 
+	animation12.pattern70 ,overlay,10200,50,14,-600 
+	animation12.pattern71 ,overlay,10201,50,9 ,-590 
+	animation12.pattern72 ,overlay,10202,50,5 ,-580 
+	animation12.pattern73 ,overlay,10203,50,2 ,-570 
+	animation12.pattern74 ,overlay,10204,50,0 ,-560 
+	animation12.pattern75 ,overlay,10205,50,2 ,-550 
+	animation12.pattern76 ,overlay,10206,50,5 ,-540 
+	animation12.pattern77 ,overlay,10207,50,9 ,-530 
+	animation12.pattern78 ,overlay,10208,50,14,-520 
+	animation12.pattern79 ,overlay,10209,50,18,-510 
+	animation12.pattern80 ,overlay,10200,50,21,-500 
+	animation12.pattern81 ,overlay,10201,50,23,-490 
+	animation12.pattern82 ,overlay,10202,50,21,-480 
+	animation12.pattern83 ,overlay,10203,50,18,-470 
+	animation12.pattern84 ,overlay,10204,50,14,-460 
+	animation12.pattern85 ,overlay,10205,50,9 ,-450 
+	animation12.pattern86 ,overlay,10206,50,5 ,-440 
+	animation12.pattern87 ,overlay,10207,50,2 ,-430 
+	animation12.pattern88 ,overlay,10208,50,0 ,-420 
+	animation12.pattern89 ,overlay,10209,50,2 ,-410 
+	animation12.pattern90 ,overlay,10200,50,5 ,-400 
+	animation12.pattern91 ,overlay,10201,50,9 ,-390 
+	animation12.pattern92 ,overlay,10202,50,14,-380 
+	animation12.pattern93 ,overlay,10203,50,18,-370 
+	animation12.pattern94 ,overlay,10204,50,21,-360 
+	animation12.pattern95 ,overlay,10205,50,23,-350 
+	animation12.pattern96 ,overlay,10206,50,21,-340 
+	animation12.pattern97 ,overlay,10207,50,18,-330 
+	animation12.pattern98 ,overlay,10208,50,14,-320 
+	animation12.pattern99 ,overlay,10209,50,9 ,-310 
+	animation12.pattern100,overlay,10200,50,5 ,-300 
+	animation12.pattern101,overlay,10201,50,2 ,-290 
+	animation12.pattern102,overlay,10202,50,0 ,-280 
+	animation12.pattern103,overlay,10203,50,2 ,-270 
+	animation12.pattern104,overlay,10204,50,5 ,-260 
+	animation12.pattern105,overlay,10205,50,9 ,-250 
+	animation12.pattern106,overlay,10206,50,14,-240 
+	animation12.pattern107,overlay,10207,50,18,-230 
+	animation12.pattern108,overlay,10208,50,21,-220 
+	animation12.pattern109,overlay,10209,50,23,-210 
+	animation12.pattern110,overlay,10200,50,21,-200 
+	animation12.pattern111,overlay,10201,50,18,-190 
+	animation12.pattern112,overlay,10202,50,14,-180 
+	animation12.pattern113,overlay,10203,50,9 ,-170 
+	animation12.pattern114,overlay,10204,50,5 ,-160 
+	animation12.pattern115,overlay,10205,50,2 ,-150 
+	animation12.pattern116,overlay,10206,50,0 ,-140 
+	animation12.pattern117,overlay,10207,50,2 ,-130 
+	animation12.pattern118,overlay,10208,50,5 ,-120 
+	animation12.pattern119,overlay,10209,50,9 ,-110 
+	animation12.pattern120,overlay,10200,50,14,-100 
+	animation12.pattern121,overlay,10201,50,18,-90  
+	animation12.pattern122,overlay,10202,50,21,-80  
+	animation12.pattern123,overlay,10203,50,23,-70  
+	animation12.pattern124,overlay,10204,50,21,-60  
+	animation12.pattern125,overlay,10205,50,18,-50  
+	animation12.pattern126,overlay,10206,50,14,-40  
+	animation12.pattern127,overlay,10207,50,9 ,-30  
+	animation12.pattern128,overlay,10208,50,5 ,-20  
+	animation12.pattern129,overlay,10209,50,2 ,-10  
+	animation12.pattern130,overlay,10200,50,0 ,0,alpha,255
+	animation12.pattern131,overlay,10200,100,0,0,alpha,229
+	animation12.pattern132,overlay,10200,100,0,0,alpha,203
+	animation12.pattern133,overlay,10200,100,0,0,alpha,178
+	animation12.pattern134,overlay,10200,100,0,0,alpha,152
+	animation12.pattern135,overlay,10200,100,0,0,alpha,127
+	animation12.pattern136,overlay,10200,100,0,0,alpha,101
+	animation12.pattern137,overlay,10200,100,0,0,alpha,076
+	animation12.pattern138,overlay,10200,100,0,0,alpha,050
+	animation12.pattern139,overlay,10200,100,0,0,alpha,025
+	animation12.pattern140,overlay,-1,100,0,0
 }
 
-//Snow flake variants
-surface10000
-{
-	animation10000.interval,bind
-	animation10000.pattern0,replace,10000,0,0,0
-	
-	animation10100.interval,bind
-	animation10100.pattern0,replace,10100,0,0,0
-	
-	animation10200.interval,bind
-	animation10200.pattern0,replace,10200,0,0,0
-}
-
-surface10001
-{
-	animation10000.interval,bind
-	animation10000.pattern0,replace,10001,0,0,0
-	
-	animation10100.interval,bind
-	animation10100.pattern0,replace,10101,0,0,0
-	
-	animation10200.interval,bind
-	animation10200.pattern0,replace,10201,0,0,0
-}
-
-
-surface10002
-{
-	animation10000.interval,bind
-	animation10000.pattern0,replace,10002,0,0,0
-	
-	animation10100.interval,bind
-	animation10100.pattern0,replace,10102,0,0,0
-	
-	animation10200.interval,bind
-	animation10200.pattern0,replace,10202,0,0,0
-}
-
-
-surface10003
-{
-	animation10000.interval,bind
-	animation10000.pattern0,replace,10003,0,0,0
-	
-	animation10100.interval,bind
-	animation10100.pattern0,replace,10103,0,0,0
-	
-	animation10200.interval,bind
-	animation10200.pattern0,replace,10203,0,0,0
-}
-
-
-surface10004
-{
-	animation10000.interval,bind
-	animation10000.pattern0,replace,10004,0,0,0
-	
-	animation10100.interval,bind
-	animation10100.pattern0,replace,10104,0,0,0
-	
-	animation10200.interval,bind
-	animation10200.pattern0,replace,10204,0,0,0
-}
-
-surface10005
-{
-	animation10000.interval,bind
-	animation10000.pattern0,replace,10005,0,0,0
-	
-	animation10100.interval,bind
-	animation10100.pattern0,replace,10105,0,0,0
-	
-	animation10200.interval,bind
-	animation10200.pattern0,replace,10205,0,0,0
-}
-
-surface10006
-{
-	animation10000.interval,bind
-	animation10000.pattern0,replace,10006,0,0,0
-	
-	animation10100.interval,bind
-	animation10100.pattern0,replace,10106,0,0,0
-	
-	animation10200.interval,bind
-	animation10200.pattern0,replace,10206,0,0,0
-}
-
-surface10007
-{
-	animation10000.interval,bind
-	animation10000.pattern0,replace,10007,0,0,0
-	
-	animation10100.interval,bind
-	animation10100.pattern0,replace,10107,0,0,0
-	
-	animation10200.interval,bind
-	animation10200.pattern0,replace,10207,0,0,0
-}
-
-surface10008
-{
-	animation10000.interval,bind
-	animation10000.pattern0,replace,10008,0,0,0
-	
-	animation10100.interval,bind
-	animation10100.pattern0,replace,10108,0,0,0
-	
-	animation10200.interval,bind
-	animation10200.pattern0,replace,10208,0,0,0
-}
-
-surface10009
-{
-	animation10000.interval,bind
-	animation10000.pattern0,replace,10009,0,0,0
-	
-	animation10100.interval,bind
-	animation10100.pattern0,replace,10109,0,0,0
-	
-	animation10200.interval,bind
-	animation10200.pattern0,replace,10209,0,0,0
-}
-
-
-//Snow drift
+//Snowdrift
 surface2
 {
 	element0,overlay,surface20000.png,0,0
 	
 	point.basepos.y,90
 	
+	animation0.interval,runonce
+	animation0.pattern0,alternativestart,(10,11)
+	
+	animation10.interval,never
+	animation10.pattern0,replace,20000,0,0,0
+	
+	animation11.interval,never
+	animation11.pattern0,replace,20100,0,0,0
+}
+
+surface20000
+{
 	animation21000.interval,bind
 	animation21000.pattern0,replace,20000,0,0,0
 	
@@ -306,64 +482,49 @@ surface2
 	animation21003.pattern0,replace,20003,0,0,0
 }
 
-surface20000
+surface20100
 {
-	animation20000.interval,bind
-	animation20000.pattern0,replace,20000,0,0,0
+	animation21000.interval,bind
+	animation21000.pattern0,replace,20100,0,0,0
 	
-	animation20100.interval,bind
-	animation20100.pattern0,replace,20100,0,0,0
+	animation21001.interval,bind
+	animation21001.pattern0,replace,20101,0,0,0
+	
+	animation21002.interval,bind
+	animation21002.pattern0,replace,20102,0,0,0
+	
+	animation21003.interval,bind
+	animation21003.pattern0,replace,20103,0,0,0
 }
 
-surface20001
-{
-	animation20000.interval,bind
-	animation20000.pattern0,replace,20001,0,0,0
-	
-	animation20100.interval,bind
-	animation20100.pattern0,replace,20101,0,0,0
-}
-
-surface20002
-{
-	animation20000.interval,bind
-	animation20000.pattern0,replace,20002,0,0,0
-	
-	animation20100.interval,bind
-	animation20100.pattern0,replace,20102,0,0,0
-}
-
-surface20003
-{
-	animation20000.interval,bind
-	animation20000.pattern0,replace,20003,0,0,0
-	
-	animation20100.interval,bind
-	animation20100.pattern0,replace,20103,0,0,0
-}
-
-//Snow ball
+//Snowball
 surface3
 {
 	element0,overlay,surface30000.png,0,0
 	
-	animation30000.interval,bind
-	animation30000.pattern0,replace,30000,0,0,0
+	animation0.interval,runonce
+	animation0.pattern0,alternativestart,(10,11)
 	
-	animation30100.interval,bind
-	animation30100.pattern0,replace,30100,0,0,0
+	animation10.interval,never
+	animation10.pattern0,replace,30000,0,0,0
+	
+	animation11.interval,never
+	animation11.pattern0,replace,30100,0,0,0
 }
 
-//Snow man
+//Snowman
 surface4
 {
 	element0,overlay,surface40000.png,0,0
 	
-	animation40000.interval,bind
-	animation40000.pattern0,replace,40000,0,0,0
+	animation0.interval,runonce
+	animation0.pattern0,alternativestart,(10,11)
 	
-	animation40100.interval,bind
-	animation40100.pattern0,replace,40100,0,0,0
+	animation10.interval,never
+	animation10.pattern0,replace,40000,0,0,0
+	
+	animation11.interval,never
+	animation11.pattern0,replace,40100,0,0,0
 }
 
 surface10
