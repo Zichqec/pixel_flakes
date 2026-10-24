@@ -9,6 +9,11 @@ surface0
 	point.basepos.y,43
 }
 
+surface10
+{
+}
+
+
 //Snowflake
 surface1
 {
@@ -467,35 +472,37 @@ surface2
 	animation11.pattern0,replace,20100,0,0,0
 }
 
+//Snowdrift variants with stages as dressups
 surface20000
 {
-	animation21000.interval,bind
-	animation21000.pattern0,replace,20000,0,0,0
+	animation20000.interval,bind
+	animation20000.pattern0,replace,20000,0,0,0
 	
-	animation21001.interval,bind
-	animation21001.pattern0,replace,20001,0,0,0
+	animation20001.interval,bind
+	animation20001.pattern0,replace,20001,0,0,0
 	
-	animation21002.interval,bind
-	animation21002.pattern0,replace,20002,0,0,0
+	animation20002.interval,bind
+	animation20002.pattern0,replace,20002,0,0,0
 	
-	animation21003.interval,bind
-	animation21003.pattern0,replace,20003,0,0,0
+	animation20003.interval,bind
+	animation20003.pattern0,replace,20003,0,0,0
 }
 
 surface20100
 {
-	animation21000.interval,bind
-	animation21000.pattern0,replace,20100,0,0,0
+	animation20000.interval,bind
+	animation20000.pattern0,replace,20100,0,0,0
 	
-	animation21001.interval,bind
-	animation21001.pattern0,replace,20101,0,0,0
+	animation20001.interval,bind
+	animation20001.pattern0,replace,20101,0,0,0
 	
-	animation21002.interval,bind
-	animation21002.pattern0,replace,20102,0,0,0
+	animation20002.interval,bind
+	animation20002.pattern0,replace,20102,0,0,0
 	
-	animation21003.interval,bind
-	animation21003.pattern0,replace,20103,0,0,0
+	animation20003.interval,bind
+	animation20003.pattern0,replace,20103,0,0,0
 }
+
 
 //Snowball
 surface3
@@ -512,6 +519,7 @@ surface3
 	animation11.pattern0,replace,30100,0,0,0
 }
 
+
 //Snowman
 surface4
 {
@@ -525,8 +533,4 @@ surface4
 	
 	animation11.interval,never
 	animation11.pattern0,replace,40100,0,0,0
-}
-
-surface10
-{
 }
